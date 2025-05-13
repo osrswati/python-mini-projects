@@ -1,3 +1,6 @@
 # pip install -r requirements.txt
+# check all method for each data type -> dir(str)
+# check instruction for each method -> help(str.title)
+# check available functions -> import builtins
 
 inflect==7.0.0 # convert numbers into text 
