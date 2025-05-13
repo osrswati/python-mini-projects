@@ -1,0 +1,3 @@
+# pip install -r requirements.txt
+
+inflect==7.0.0 # convert numbers into text 
